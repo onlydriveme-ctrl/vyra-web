@@ -2,8 +2,8 @@
 // 1. SUPABASE CONFIGURATION
 // ==========================================
 // သင်၏ Supabase Credentials များကို ဒီနေရာတွင် အစားထိုးပါ
-const SUPABASE_URL = 'sb_publishable_WP0jDIE-VvkcNtcbhb6A7A_JWwT2X2F';
-const SUPABASE_KEY = 'sb_secret_EHeVVQ4N1ZUE2MJZw2oXMQ_JE7M3hdT';
+const SUPABASE_URL = 'https://fpxsqharjpygnniwsfsq.supabase.co';
+const SUPABASE_KEY = 'sb_publishable_WP0jDIE-VvkcNtcbhb6A7A_JWwT2X2F';
 
 // Supabase Client ဖန်တီးခြင်း
 const supabase = window.supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
